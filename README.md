@@ -18,12 +18,25 @@ I use Figma to do the wireframe of the website. Never have I used such tool befo
 to play around to get the hang of it. Here's my figma wireframe design. https://www.figma.com/file/YjIfmQmOPn3NxuDD1IGRtqsy/Final-Wireframe
 
 Coding
+The layout of my website is pretty simple. I just have to make sure the alignments of the content are evenly spaced out and have a good flow. I put the contents in each different sections.
+
+Sections
+ 
+ About me
+ This contains a short description and background informatin about me. A link to my Linkedin profile is provided.
+ 
+ Portfolio
+ My github and codepen portfolios are showcased here.
+ 
+ Contact
+ This section allows users to contact me thru email for work and projects.
 
 
-CSS and JS animations
+Animations
+
+Changing background color animation on scroll
 http://codepen.io/jackharner/pen/bdPmQM
 
 
-CHALLENGES
-
-
+LEARNINGS
+This is my very first website so it comes with a lot of challenges. I spent quite some time figuring out the layout and spacing of the content to make it more appealing. I also have to make sure that the animations dont affect the functionality of the website.
